@@ -1,4 +1,5 @@
-def comparation_bid(bids):
+def compare_bid(bids):
+    """Compares bids and prints the highest one"""
     name_highest_bid = ''
     highest_bid = 0
 
@@ -6,7 +7,7 @@ def comparation_bid(bids):
         if bids[key] > highest_bid:
             name_highest_bid = key
             highest_bid = bids[key]
-    
+
     print(f'The winner is {name_highest_bid} with a bid of ${highest_bid}.')
 
 print('Welcome to the secret auction program')
@@ -25,5 +26,5 @@ while True:
         print('\n' * 20)
     else:
         print('\n' * 20)
-        comparation_bid(bidding_dictionary)
+        compare_bid(bidding_dictionary)
         break
