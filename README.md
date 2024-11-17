@@ -19,6 +19,8 @@ Durante 100 dias consecutivos, vou me dedicar ao estudo e prática da linguagem 
 - **Dia 10** - Calculadora Interativa, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/day%2010).
 - **Dia 11** - Jogo de Blackjack, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/day%2011).
 - **Dia 12** - Jogo de Adivinhação de Números, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/day%2012).
+- **Dia 13** - Debugging, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/day%2013).
+- **Dia 14** - Higher vs Lower Game, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/day%2014).
 
 ## Recursos
 
