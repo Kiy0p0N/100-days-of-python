@@ -11,21 +11,21 @@ numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '_', '=', '+', '[', ']', '{', '}', '|', '\\', ':', ';', '"', "'", '<', '>', ',', '.', '?', '/']
 
 
-total_characteres = [letters, numbers, symbols]  # Adding the lists to a new list
+total_characters = [letters, numbers, symbols]  # Adding the lists to a new list
 
 password = ''  # Create a variable to store the characters
 
-number_of_characteres = int(input('How many caracteres would you like in your password?\n'))
+number_of_characters = int(input('How many characters would you like in your password?\n'))
 
 # The 'for' loop is repeated according to the number of times desired by the user
-for i in range(1, number_of_characteres + 1):
+for i in range(1, number_of_characters + 1):
     
     # Randomly choose a list
     random_choice = random.randint(0, 2)  
     aleatory_list = total_characteres[random_choice]
 
-    aleatory_charactere_list = random.choice(aleatory_list)  # Randomly choose a character from the list
+    aleatory_character_list = random.choice(aleatory_list)  # Randomly choose a character from the list
 
-    password += aleatory_charactere_list  # Add the character to the password variable
+    password += aleatory_character_list  # Add the character to the password variable
 
 print(password)

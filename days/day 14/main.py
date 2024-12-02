@@ -1,20 +1,12 @@
 # higher vs lower game
 # choose two people from the list of instagram accounts and compare to see who has the most followers
 
-from random import randint
+from random import choice
 
 import art
-import instagram
-instagram_accounts = instagram.instagram_list
+from instagram import instagram_list
 
-# 1 - choose two random numbers
-def random_number():
-    len_instagram_list = len(instagram.instagram_list)
-    number = randint(1, len_instagram_list)
-
-    return number
-
-# 2 - Compare the number of followers and return the highest
+# Compare the number of followers and return the highest
 def compare_follower(acc_a, acc_b):
     if acc_a["followers"] > acc_b["followers"]:
         return acc_a
@@ -25,18 +17,16 @@ def game():
 
     score = 0
 
-    number_a = random_number()
-    account_a = instagram_accounts[number_a]
+    account_a = choice(instagram_list)
 
-    # 3 - create a loop that continues until the user makes a mistake
+    # create a loop that continues until the user makes a mistake
     game_over = False
     while not game_over:
 
         # selects a new account, different from 'account_a' on each new round
-        number_b = random_number()
-        while number_a == number_b:
-            number_b = random_number()
-        account_b = instagram_accounts[number_b]
+        account_b = choice(instagram_list)
+        while account_a == account_b:
+            account_b = choice(instagram_list)
 
         if score != 0:
             print(f"\nYou're right! Current score: {score}.")
@@ -61,7 +51,6 @@ def game():
                 score += 1
 
                 # updates variables 'A' to variables 'B' so that it is the first option to be displayed in the next iteration of the loop
-                number_a = number_b
                 account_a = account_b
             else:
                 print(f"Sorry, that's wrong. Final score: {score}")
