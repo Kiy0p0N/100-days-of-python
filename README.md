@@ -23,6 +23,9 @@ Durante 100 dias consecutivos, vou me dedicar ao estudo e prática da linguagem 
 - **Dia 14** - Higher vs Lower Game, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2014).
 - **Dia 15** - Máquina de Café, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2015).
 - **Dia 16** - Máquina de Café utilizando Atributos e Métodos, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2016).
+- **Dia 17** - Quiz Interativo com POO, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2017).
+- **Dia 18** - The Hirst Painting Project, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2018).
+
 
 ## Recursos
 
