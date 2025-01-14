@@ -26,9 +26,3 @@ Este projeto implementa o clássico jogo da cobrinha (Snake) utilizando a biblio
 
 5. **Interação do usuário:**
    - O jogo permanece em execução até o jogador fechar a janela.
-
-## Exemplo de execução
-<video width="560" height="315" autoplay muted loop>
-  <source src="video/snake-game%20(part%201).mp4" type="video/mp4">
-  Seu navegador não suporta o vídeo.
-</video>

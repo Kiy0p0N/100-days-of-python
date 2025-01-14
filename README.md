@@ -26,7 +26,8 @@ Durante 100 dias consecutivos, vou me dedicar ao estudo e prática da linguagem 
 - **Dia 17** - Quiz Interativo com POO, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2017).
 - **Dia 18** - The Hirst Painting Project, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2018).
 - **Dia 19** - Turtle race, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2019)
-- **Dia 20** - Snake Game (Part 1), [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2020)
+- **Dia 20** - Snake Game (Parte 1), [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2020)
+- **Dia 21** - Snake Game (Parte final), [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2021)
 
 
 ## Recursos
