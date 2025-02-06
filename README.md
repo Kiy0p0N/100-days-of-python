@@ -30,7 +30,8 @@ Durante 100 dias consecutivos, vou me dedicar ao estudo e prática da linguagem 
 - **Dia 21** - Snake Game (Parte final), [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2021).
 - **Dia 22** - Pong Game, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2022).
 - **Dia 23** - Turtle Crossing Game, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2023).
-
+- **Dia 24** - Gerador Automático de Convites, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2024).
+- **Dia 25** - Brazil States Quiz, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2025).
 
 ## Recursos
 

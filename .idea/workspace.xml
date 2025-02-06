@@ -5,60 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749fbe18-a50e-4e85-9aae-851cafd02f21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 21/code/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/input/letters/starting_letters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/input/names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/output/ReadyToSend/invitation-to-aang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/output/ReadyToSend/invitation-to-appa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/output/ReadyToSend/invitation-to-katara.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/output/ReadyToSend/invitation-to-momo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/output/ReadyToSend/invitation-to-sokka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/output/ReadyToSend/invitation-to-toph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/code/output/ReadyToSend/invitation-to-zuko.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 24/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/challenge/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/challenge/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/challenge/squirrels_count.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/estados_brasil.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/get_positions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/image/mapa-brasil.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/code/state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/image/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/day 25/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100-days-of-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100-days-of-python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 01/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 01/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 02/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 02/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 03/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 03/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 04/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 04/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 05/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 05/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 06/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 06/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 07/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 07/code/hangman_art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 07/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 07/code/hangman_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 07/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 07/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 08/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 08/code/exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 08/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 08/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 09/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 09/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 10/leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 10/code/leap_year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 10/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 11/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 11/code/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 11/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 11/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 12/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 12/code/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 12/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 12/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 12/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 12/code/prime_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 13/exercise_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 13/code/exercise_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 13/exercise_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 13/code/exercise_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 13/exercise_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 13/code/exercise_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 14/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 14/code/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 14/instagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 14/code/instagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 14/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 14/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 15/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 15/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 16/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 16/code/coffee_maker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 16/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 16/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 16/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 16/code/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 16/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 16/code/money_machine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 17/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 17/code/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 17/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 17/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 17/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 17/code/question_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 17/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 17/code/quiz_brain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 18/challenges/challenge_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 18/code/challenges/challenge_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 18/challenges/challenge_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 18/code/challenges/challenge_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 18/challenges/challenge_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 18/code/challenges/challenge_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 18/challenges/challenge_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 18/code/challenges/challenge_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 18/challenges/challenge_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 18/code/challenges/challenge_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 18/challenges/colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 18/code/challenges/colors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 18/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 18/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 19/challenges/etch_e_sketch.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 19/code/challenges/etch_e_sketch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 19/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 19/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 20/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 20/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 20/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 20/code/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 21/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/code/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 21/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 21/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/code/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 21/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/code/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 22/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 22/code/ball.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 22/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 22/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 22/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 22/code/paddle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days/day 22/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 22/code/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days/day 21/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days/day 21/code/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/code/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days/day 21/code/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/code/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days/day 21/image/snake-game.png" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/image/snake-game.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days/day 21/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/days/day 21/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,48 +69,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.ball.executor": "Run",
-    "Python.car_manager.executor": "Run",
-    "Python.challenge_1.executor": "Run",
-    "Python.challenge_2.executor": "Run",
-    "Python.challenge_3.executor": "Run",
-    "Python.challenge_4.executor": "Run",
-    "Python.challenge_5.executor": "Run",
-    "Python.etch_e_sketch.executor": "Run",
-    "Python.exercise_1.executor": "Run",
-    "Python.exercise_2.executor": "Run",
-    "Python.exercise_3.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.menu.executor": "Run",
-    "Python.paddle.executor": "Run",
-    "Python.player.executor": "Run",
-    "Python.quiz_brain.executor": "Run",
-    "Python.scoreboard.executor": "Run",
-    "Python.snake.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/fr394/OneDrive/Documentos/udemy - python/100-days-of-python/days/day 23/image",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_states.executor&quot;: &quot;Run&quot;,
+    &quot;Python.etch_e_sketch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_positions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paddle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.player.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.state.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fr394/OneDrive/Documentos/meus projetos/100-days-of-python/days/day 25/code&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fr394\OneDrive\Documentos\meus projetos\100-days-of-python\days\day 25\code" />
+      <recent name="C:\Users\fr394\OneDrive\Documentos\meus projetos\100-days-of-python\days\day 25\code\image" />
+      <recent name="C:\Users\fr394\OneDrive\Documentos\meus projetos\100-days-of-python\days\day 21\image" />
       <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 23\image" />
       <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 22\image" />
-      <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 21" />
-      <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 16" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fr394\OneDrive\Documentos\meus projetos\100-days-of-python\days\day 25\code\image" />
+      <recent name="C:\Users\fr394\OneDrive\Documentos\meus projetos\100-days-of-python\days\day 25\code\challenge" />
+      <recent name="C:\Users\fr394\OneDrive\Documentos\meus projetos\100-days-of-python\days\day 24\code" />
+      <recent name="C:\Users\fr394\OneDrive\Documentos\meus projetos\100-days-of-python\days\day 24\code\Output" />
       <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 22\code" />
-      <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 21\code" />
-      <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 20\code" />
-      <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 19\code" />
-      <recent name="C:\Users\fr394\OneDrive\Documentos\udemy - python\100-days-of-python\days\day 18\code" />
     </key>
   </component>
   <component name="SharedIndexes">

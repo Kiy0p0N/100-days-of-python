@@ -28,7 +28,10 @@ Este projeto é uma recriação do clássico jogo da **Cobrinha**, desenvolvido 
    - **Com as bordas:** O jogo termina se a cobra tocar nas extremidades da tela.
    - **Com o próprio corpo:** O jogo termina se a cobra colidir com um de seus próprios segmentos.
 
-5. **Finalização do jogo:**
+5. **Gravar o high score:**
+   -  O high score é gravado em um arquivo `data.txt` para que continue mesmo após o jogador fechar a jogo.
+
+6. **Finalização do jogo:**
    - O jogo permanece ativo até ocorrer uma colisão.
    - O jogador pode fechar a janela clicando nela.
 

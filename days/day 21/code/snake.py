@@ -30,6 +30,15 @@ class Snake:
         """Create a new segment"""
         self.add_segment(self.segments[-1].position())
 
+    def reset(self):
+        """Send the current snake off the screen, and create a new one in its starting position to restart the game."""
+        for seg in self.segments:
+            seg.goto(1000, 1000)
+        self.segments.clear()
+        self.create_snake()
+        self.head = self.segments[0]
+
+
     def move(self):
         """Move the snake wherever its head is pointing"""
         # Move each segment to the position of the previous segment
