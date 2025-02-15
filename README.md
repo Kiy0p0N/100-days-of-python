@@ -34,6 +34,8 @@ Durante 100 dias consecutivos, vou me dedicar ao estudo e prática da linguagem 
 - **Dia 25** - Brazil States Quiz, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2025).
 - **Dia 26** - NATO Phonetic Alphabet Converter, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2026).
 - **Dia 27** - Mile to Km Converted, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2027).
+- **Dia 28** - Pomodoro Timer, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2028).
+
 
 ## Recursos
 
