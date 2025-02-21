@@ -22,7 +22,7 @@ for i in range(1, number_of_characters + 1):
     
     # Randomly choose a list
     random_choice = random.randint(0, 2)  
-    aleatory_list = total_characteres[random_choice]
+    aleatory_list = total_characters[random_choice]
 
     aleatory_character_list = random.choice(aleatory_list)  # Randomly choose a character from the list
 
