@@ -4,7 +4,7 @@ Este repositório foi criado para acompanhar minha jornada de aprendizado de Pyt
 
 ## Objetivo
 
-Durante 100 dias consecutivos, vou me dedicar ao estudo e prática da linguagem Python, abordando desde conceitos básicos até tópicos avançados. Todos os projetos e exercícios são baseados no curso da Udemy **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**.
+Durante 100 dias, vou me dedicar ao estudo e prática da linguagem Python, abordando desde conceitos básicos até tópicos avançados. Todos os projetos e exercícios são baseados no curso da Udemy **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**.
 
 ## O que foi feito em cada dia
 - **Dia 01** - Gerador de Nomes de Banda, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2001).
@@ -36,6 +36,8 @@ Durante 100 dias consecutivos, vou me dedicar ao estudo e prática da linguagem 
 - **Dia 27** - Mile to Km Converted, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2027).
 - **Dia 28** - Pomodoro Timer, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2028).
 - **Dia 29** - Password Manager, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2029).
+- **Dia 30** - Password Manager (2.0), [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2030).
+
 
 ## Recursos
 
