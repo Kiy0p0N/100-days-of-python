@@ -37,6 +37,7 @@ Durante 100 dias, vou me dedicar ao estudo e prática da linguagem Python, abord
 - **Dia 28** - Pomodoro Timer, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2028).
 - **Dia 29** - Password Manager, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2029).
 - **Dia 30** - Password Manager (2.0), [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2030).
+- **Dia 31** - Flashcards, [link](https://github.com/Kiy0p0N/100-days-of-python/tree/main/days/day%2031).
 
 
 ## Recursos
